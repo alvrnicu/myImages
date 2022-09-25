@@ -1,0 +1,2 @@
+# myImages
+For hosting images
